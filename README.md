@@ -7,6 +7,8 @@ I cleaned the data by removing duplicates using Python (Pandas) <br>
 Cleaned Data set used for visualization - https://github.com/rushalimandadi/Data-Science-Salaries-analysis-Tableau/blob/cc8d4d456bf6785d2cb2fec658c57f63e84162d4/datascience_salaries.csv
 # Data Dictionary 
 Data dictionary - https://github.com/rushalimandadi/Data-Science-Salaries-analysis-Tableau/blob/6348df7ea82e97031e66b24055b3f0c1a5dc81b3/Data%20dictionary
+# Tableau Public 
+https://public.tableau.com/app/profile/rushali.mandadi/viz/DataScienceSalariesdashboard_16915261504410/Dashboard1?publish=yes 
 # Analysis
 Average Salaries by Job Title & Experience Level 
 
