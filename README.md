@@ -1,6 +1,8 @@
+# Data Science Salaries Analysis | Data Visualization using Tableau 
 # Introduction
-Not knowing what to put the desired salary range when you are applying for a data science job? <br>
-I got you.<br> I analyzed a data set of data-science job salaries drawing few interesting insights. 
+Ever been baffled by the daunting task of determining the right salary expectations for your next Data Science role? 🤷‍♂️ <br>
+Say no more – I've got your back! <br>
+I analyzed a data set of data-science job salaries drawing few interesting insights. 
 # Data Set 
 Took a data set from Kaggle https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023 <br>
 I cleaned the data by removing duplicates using Python (Pandas) <br>
